@@ -5,17 +5,14 @@ My mission is to contribute my knowledge and skills to new projects that make a 
 
 Let's Work Together!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Booking app!
 
+- 🌱 I’m currently learning React-Routers
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: yulia.glushenko@gmail.com. Say Hi!
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her
+
+- ⚡ Fun fact: I studied korean for two years! 안녕하세요!
+
