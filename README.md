@@ -6,7 +6,7 @@ My mission is to contribute my knowledge and skills to new projects that make a 
 Let's Work Together!
 
 
-- 🔭 I’m currently working on Booking app!
+- 🔭 I’m currently working on Booking App in React.js and PostgrsQl!
 
 - 🌱 I’m currently learning React-Routers
 
